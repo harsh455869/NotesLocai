@@ -1,0 +1,37 @@
+.formp textarea{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 17px;
+    padding: 7px;
+    width: 90%;
+    border-radius:5px ;
+    margin: 10px;
+    
+}
+.formp{
+    margin: auto;
+    width: 60%;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.formp button{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 7px;
+    background-color: rgb(11, 11, 15);
+    border: none;
+    border-radius: 7px;
+    width: 45%;
+    margin: 5px;
+    color: white;
+    font-size: 18px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.formp input{
+    width: 90%;
+    border-radius:5px ;
+    margin: 10px;
+    height: 20px;
+    padding: 7px;
+    font-size: 17px;
+    font-weight: 600;
+}
